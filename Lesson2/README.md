@@ -50,12 +50,19 @@
 - Снимок состояния процессора. Сохраняет текущее состояние регистров процессора и других аппаратных компонентов.
 
 ## ***Домашнее задание*** ##
-1. Создание локальной сети по заданной преподавателем структуре и настройка соотвествующих параметров.  
-   ![ping](images/ping.png)  
-2. Состояние ВМ Window_10_Pro.  
-   ![w_pro](images/window_pro.png)  
-3. Состояние ВМ Window_server.  
-   ![w_server](images/window_server.png)  
-4. Состояние ВМ Kali_Linux.  
+1. Создание локальной сети по заданной преподавателем структуре и настройка соотвествующих параметров.
+     
+   ![ping](images/ping.png)
+  
+2. Состояние ВМ Window_10_Pro.
+     
+   ![w_pro](images/window_pro.png)
+     
+4. Состояние ВМ Window_server.
+      
+   ![w_server](images/window_server.png)
+     
+6. Состояние ВМ Kali_Linux.
+     
    ![k_linux](images/kali_linux.png)  
 
