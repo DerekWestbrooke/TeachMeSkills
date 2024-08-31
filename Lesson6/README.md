@@ -104,25 +104,37 @@ HTTP-сообщения представляют собой обычный те�
 
 # 2. Подключение к ВМ Window 10 из ВМ Ubuntu 20 #  
 1. Установка ssh-server на ВМ Ubuntu 20 командой sudo apt install ssh-server.  
-2. Проверка запуска службы ssh командой sudo systemctl status ssh.  
-   ![ssh-status](/images/ssh-status.png)  
-3.Создание ключей my_key и my_key.pub командой ssh-keygen -t ed25519. В директории ~/.ssh/ появились ключи.  
-   ![keys](/images/keys.png)  
-4. На ВМ Window 10 переносим публичный ключ и записываем в файл: C:/Users/user/.ssh/authorized_keys.  
-   ![key_record_window](/images/key_record_window.png)
-5. Подключение к ВМ Window 10 из ВМ Ubuntu 20 по ssh :  
-   ![con_to_10](/images/con_to_10.png)
+2. Проверка запуска службы ssh командой sudo systemctl status ssh.
+      
+   ![ssh-status](images/ssh-status.png)
    
-7. Выполнение команды dir из терминала Ubuntu 20.
-   ![dir_10](/images/dir_10.png)
-
-# 3. Подключение к ВМ Ubuntu 20 из Window 10 #
-1. Стот отметить, что последовательность действий является аналогичной. Результат:
-![con_to_20](/images/con_to_20.png)
-
-Но в данном примере настройка проведена по правилам BestPractice из статьи. 
-1. Редактирвоание файла /etc/ssh/ssh_config. Были изменены строки: HostbasedAuthentication no, PermitRootLogin no, Port 2200, PermitEmptyPasswords no, IgnoreRhosts yes.
-   ![ssh-config](/images/ssh-config.png)
-2. Подключение к ВМ Ubuntu 20 из Window 10 согласно правилам BestPractice.
-   ![con_to_20_2](/images/con_to_20_2.png)
+3.Создание ключей my_key и my_key.pub командой ssh-keygen -t ed25519. В директории ~/.ssh/ появились ключи.  
+   
+   ![keys](images/keys.png)  
+  
+4. На ВМ Window 10 переносим публичный ключ и записываем в файл: C:/Users/user/.ssh/authorized_keys.  
+  
+   ![key_record_window](images/key_record_window.PNG)  
+  
+5. Подключение к ВМ Window 10 из ВМ Ubuntu 20 по ssh :  
+  
+   ![con_to_10](images/con_to_10.png)
+       
+7. Выполнение команды dir из терминала Ubuntu 20.  
+  
+   ![dir_10](images/dir_10.png)  
+  
+# 3. Подключение к ВМ Ubuntu 20 из Window 10 #  
+1. Стоит отметить, что последовательность действий является аналогичной. Результат:  
+  
+   ![con_to_20](images/con_to_20.PNG)  
+  
+Но в данном примере настройка проведена по правилам BestPractice из статьи.  
+2. Редактирвоание файла /etc/ssh/ssh_config. Были изменены строки:  HostbasedAuthentication no, PermitRootLogin no, Port 2200, PermitEmptyPasswords no, IgnoreRhosts yes.  
+  
+   ![ssh-config](images/ssh-config.png)  
+  
+3. Подключение к ВМ Ubuntu 20 из Window 10 согласно правилам BestPractice.  
+  
+   ![con_to_20_2](images/con_to_20_2.PNG)  
 
