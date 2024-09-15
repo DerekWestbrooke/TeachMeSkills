@@ -54,11 +54,11 @@
 ![js_after.PNG](images/js_after.PNG) 
   
 3. Далее была осуществлена атака WindowServer. Сначала с помощью nmap сканировалась сеть на наличие узлов и открытых портов.  
-![nmap.PNG](images/nmap.PNG)
+![nmap.PNG](images/nmap.PNG)  
   
 4.У узла с IP 10.10.0.4 открытый порт 22, по которому далее была осуществлена атака (ранее на данном узле был развернут SSH-server).
 ![dos.PNG](images/dos.PNG)  
-
+  
 5. Результат атаки представлен ниже.  
 ![result.PNG](images/result.PNG)  
 
