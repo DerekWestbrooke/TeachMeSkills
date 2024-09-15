@@ -160,8 +160,7 @@ SSRF часто используется злоумышленниками для
 1. Результат прохождения тестов по SQL-запросам.  
 ![sql-test](images/sql-test.PNG)  
   
-2. Результаты лабораторных работ по OWASP TOP 10.  
-![sql-test](images/sql-test.PNG)  
+2. Результаты лабораторных работ по OWASP TOP 10.   
 ![test_1](images/test_1.PNG)  
 ![test_2](images/test_2.PNG)  
 ![test_3](images/test_3.PNG)  
