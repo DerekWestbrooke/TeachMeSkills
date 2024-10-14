@@ -37,7 +37,7 @@ SELinux принимает решения о доступе к ресурсам 
 
 3. Настройки iptables до скрипта.
   
-![before_script](images/before_script.png) 
+![before_script](images/before_sh.png) 
   
 4. Скрипт для настройки iptables.
   
