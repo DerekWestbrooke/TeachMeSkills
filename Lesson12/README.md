@@ -27,5 +27,5 @@
 
  ## ***Домашняя работа*** ##  
  Roadmap по изучению специальности "Кибербезопасность" на год :  
-
-   !(roadmap)[images/roadmap.png]
+  
+   ![roadmap](images/roadmap.png)
