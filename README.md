@@ -60,8 +60,37 @@
 <details>
   <summary>Lesson_7</summary>  
   
-  * [Лекция](./Lesson7/README.md#урок-7-owasp)  
+  * [Лекция](./Lesson7/README.MD#урок-7-типы-атак-i-owasp-top-10)  
     
-  * [Домашнее_задание](./Lesson7/README.md#домашняя-работа)  
+  * [Домашнее_задание](./Lesson7/README.MD#домашняя-работа)  
   
 </details>
+
+<details>
+  <summary>Lesson_8</summary>  
+  
+  * [Лекция](./Lesson8/README.MD#урок-8-типы-атак-ii)  
+    
+  * [Домашнее_задание](./Lesson8/README.MD#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_9</summary>  
+  
+  * [Лекция](./Lesson9/README.md#урок-9-социальная-инженерия-social-engineering)  
+    
+  * [Домашнее_задание](./Lesson9/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_10-11</summary>  
+  
+  * [Лекция](./Lesson10-11/README.md)  
+    
+  * [Домашнее_задание](./Lesson10-11/README.md#домашнее-задание)  
+  
+</details>
+
+
