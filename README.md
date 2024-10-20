@@ -85,12 +85,29 @@
 </details>
 
 <details>
-  <summary>Lesson_10-11</summary>  
+  <summary>Lessons_10-11</summary>  
   
   * [Лекция](./Lessons10-11/README.md)  
     
   * [Домашнее_задание](./Lessons10-11/README.md#домашнее-задание)  
   
-</details>
+</details>  
 
+<details>
+  <summary>Lesson_12</summary>  
+  
+  * [Лекция](./Lesson12/README.md)  
+    
+  * [Домашнее_задание](./Lesson12/README.md#домашняя-работа)  
+  
+</details>  
+
+<details>
+  <summary>Lesson_14</summary>  
+  
+  * [Лекция](./Lesson14/README.md)  
+    
+  * [Домашнее_задание](./Lesson14/README.md#домашнее-задание)  
+  
+</details>
 
