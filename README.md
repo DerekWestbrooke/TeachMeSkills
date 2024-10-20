@@ -87,9 +87,9 @@
 <details>
   <summary>Lesson_10-11</summary>  
   
-  * [Лекция](./Lesson10-11/README.md)  
+  * [Лекция](./Lessons10-11/README.md)  
     
-  * [Домашнее_задание](./Lesson10-11/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons10-11/README.md#домашнее-задание)  
   
 </details>
 
