@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------------------------------
 <details>
   <summary>Lesson_1</summary>
-  [Lesson1](Lesson1/README.md) 
+  ![Lesson1](Lesson1/README.md) 
    
 </details>
 
