@@ -5,7 +5,8 @@
 --------------------------------------------------------------------------------------------------------
 <details>
   <summary>Lesson_1</summary>
-  <pre id="/Lesson1/README.md"></pre>
+  [Содержимое другого файла](Lesson_1/README.md)
+   
 </details>
 
 <details>
