@@ -6,7 +6,7 @@
 <details>
   <summary>Lesson_1</summary>
   
-  [{#T}](./Lesson1/README.md)
+  [Lesson1](./Lesson1/README.md#домашнее-задание:)
 </details>
 
 <details>
