@@ -56,3 +56,12 @@
   * [Домашнее_задание](./Lesson6/README.md#домашняя-работа)  
   
 </details>
+
+<details>
+  <summary>Lesson_7</summary>  
+  
+  * [Лекция](./Lesson7/README.md#урок-7-owasp)  
+    
+  * [Домашнее_задание](./Lesson7/README.md#домашняя-работа)  
+  
+</details>
