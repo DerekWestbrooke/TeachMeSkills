@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------------------------------
 <details>
   <summary>Lesson_1</summary>
-  <pre id="Lesson1/README.md"></pre>
+  <pre id="/Lesson1/README.md"></pre>
 </details>
 
 <details>
