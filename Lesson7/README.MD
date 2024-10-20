@@ -1,4 +1,4 @@
-# Урок 7. Типы атак I, OWASP top 10.
+# Урок 7
 
 ### ***OWASP*** ###
 OWASP (Open Web Application Security Project) — открытый проект по безопасности веб-приложений, созданный и поддерживаемый некоммерческой организацией OWASP Foundation.  
