@@ -1,4 +1,4 @@
-# Урок 7
+# Урок 7. OWASP
 
 ### ***OWASP*** ###
 OWASP (Open Web Application Security Project) — открытый проект по безопасности веб-приложений, созданный и поддерживаемый некоммерческой организацией OWASP Foundation.  
