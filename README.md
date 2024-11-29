@@ -112,6 +112,13 @@
 </details>
 
 <details>
+  <summary>Lesson_18</summary>
+  
+  * [Домашнее_задание](./Lesson18/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
   <summary>Lesson_20</summary>
   
   * [Домашнее_задание](./Lesson20/README.md#домашнее-задание)  
