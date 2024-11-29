@@ -7,7 +7,7 @@
 
 Установка Ubuntu и проверка контрольной суммы скаченной и эталонной версии:  
   
-![image_ubuntu](images/image_ubuntu.png)  
+![image_ubuntu](images/image_ubuntu.PNG)  
 ![comparing](images/comparing.png)  
 
 Просмотр всех установленных образов:  
