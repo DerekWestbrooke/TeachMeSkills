@@ -112,11 +112,9 @@
 </details>
 
 <details>
-  <summary>Lesson_17</summary>  
+  <summary>Lesson_26</summary>
   
-  * [Лекция](./Lesson17/README.md)  
-    
-  * [Домашнее_задание](./Lesson17/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lesson26/README.md#домашнее-задание)  
   
 </details>
 
