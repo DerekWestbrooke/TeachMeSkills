@@ -30,7 +30,7 @@
 
 Далее запускаем скрипт из комндной строки PowerShell, при этом разрешая исполнения путем добавления специального флага:  
 
-![ps_command](images/ps_command.png)  
+![ps_command](images/command.png)  
 
 Результаты исполнения скрипта представлены ниже:  
 ![result1](images/result1.png)  
