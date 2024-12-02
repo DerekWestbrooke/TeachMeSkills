@@ -1,4 +1,4 @@
-# Урок 26. Scripting, web, python  
+# Урок 27. Scripting, web, python  
 
  ## ***Домашняя работа*** ##  
 1) Код скрипта на python:
