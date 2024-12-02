@@ -140,9 +140,51 @@
 </details>
 
 <details>
+  <summary>Lesson_22</summary>
+  
+  * [Домашнее_задание](./Lesson22/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_23-24</summary>
+  
+  * [Домашнее_задание](./Lesson23-24/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_25</summary>
+  
+  * [Домашнее_задание](./Lesson25/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
   <summary>Lesson_26</summary>
   
   * [Домашнее_задание](./Lesson26/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_27</summary>
+  
+  * [Домашнее_задание](./Lesson27/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_28</summary>
+  
+  * [Домашнее_задание](./Lesson28/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>Lesson_29</summary>
+  
+  * [Домашнее_задание](./Lesson29/README.md#домашнее-задание)  
   
 </details>
 
