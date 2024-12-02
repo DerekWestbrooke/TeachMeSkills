@@ -133,5 +133,5 @@ fi
 ```
 Примеры работы:  
 
-![res_window](images/res_window.png)
+![res_linux](images/res_linux.png)
 
