@@ -147,9 +147,9 @@
 </details>
 
 <details>
-  <summary>Lesson_23-24</summary>
+  <summary>Lesson_23</summary>
   
-  * [Домашнее_задание](./Lesson23-24/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lesson23/README.md#домашнее-задание)  
   
 </details>
 
