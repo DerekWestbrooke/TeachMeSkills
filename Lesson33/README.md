@@ -3,7 +3,7 @@
  ## ***Домашняя работа*** ##  
 1) Устанавливаем Process Hacker и CrackMe.exe, IDA 8.3 уже установлена. Изучаем результат, показанный Process Hacker. Для того, чтобы скачать CrackMe.exe необходимо отключить Windows Defender.
   
-![ph.png](images/res_linux.png)  
+![ph.png](images/ph.png)  
 
 ![ida](images/ida.png)  
 
@@ -17,7 +17,7 @@
 
 3) C ходу в разделе с перечисленными функцию видим функцию main, которая является основной при выполнении процесса, просмотрим ее.
 
-![some_func](images/some_func.png)  
+![some_func](images/some_funcs.png)  
 
 ![main](images/main.png)  
 
