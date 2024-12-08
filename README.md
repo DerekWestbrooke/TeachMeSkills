@@ -188,3 +188,10 @@
   
 </details>
 
+<details>
+  <summary>Lesson_30</summary>
+  
+  * [Домашнее_задание](./Lesson30/README.md#домашнее-задание)  
+  
+</details>
+
