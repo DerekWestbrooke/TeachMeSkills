@@ -104,9 +104,7 @@
 
 <details>
   <summary>Lesson_13</summary>  
-  
-  * [Лекция](./Lesson12/README.md)  
-    
+       
   * [Домашнее_задание](./Lesson13/README.md#домашняя-работа)  
   
 </details>
