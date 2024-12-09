@@ -24,7 +24,7 @@
 
 ![kali_note](images/kali_note.png)  
 
-Также заполняем и для ubuntu (host - ubuntu, ip - 10.10.0.10). Далее пингуем доменное имя на примере ubuntu:  
+Также заполняем и для ubuntu (host - ubuntu, ip - 10.10.0.10). Далее пингуем доменное имя со стороны windows server и просматриваем результаты команды dig с ubuntu и kali:  
 
 ![w-u](images/w-u.png)  
 
