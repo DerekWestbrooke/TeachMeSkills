@@ -195,3 +195,10 @@
   
 </details>
 
+<details>
+  <summary>Lesson_34</summary>
+  
+  * [Домашнее_задание](./Lesson34/README.md#домашнее-задание)  
+  
+</details>
+
