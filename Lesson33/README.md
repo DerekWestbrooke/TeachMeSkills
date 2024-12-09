@@ -1,4 +1,4 @@
-# Урок 29. Reverse engineering 
+# Урок 33. Reverse engineering 
 
  ## ***Домашняя работа*** ##  
 1) Устанавливаем Process Hacker и CrackMe.exe, IDA 8.3 уже установлена. Изучаем результат, показанный Process Hacker. Для того, чтобы скачать CrackMe.exe необходимо отключить Windows Defender.
