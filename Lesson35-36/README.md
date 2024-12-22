@@ -74,7 +74,7 @@ sudo crunch 3 8 -o mts_dict.txt -f charset.lst mixalpha
 Запускаем hydra:  
 
 ```
-hydra -l msfadmin -P mts_dict.txt ftp://192.168.133.131
+hydra -l msfadmin -P mts_dict.txt telnet://192.168.133.131
 ```
   
 ![mts_hydra](images/mts_hydra.png)  
