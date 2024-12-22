@@ -228,5 +228,12 @@
   
   * [Домашнее_задание](./Lesson35-36/README.md#домашнее-задание)  
   
+</details>  
+
+<details>
+  <summary>Lesson_37</summary>
+  
+  * [Домашнее_задание](./Lesson37/README.md#домашнее-задание)  
+  
 </details>
 
