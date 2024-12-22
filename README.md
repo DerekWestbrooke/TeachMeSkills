@@ -223,3 +223,10 @@
   
 </details>
 
+<details>
+  <summary>Lesson_35-36</summary>
+  
+  * [Домашнее_задание](./Lesson35-36/README.md#домашнее-задание)  
+  
+</details>
+
