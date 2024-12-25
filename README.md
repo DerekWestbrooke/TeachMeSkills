@@ -237,3 +237,10 @@
   
 </details>
 
+<details>
+  <summary>Lesson_38</summary>
+  
+  * [Домашнее_задание](./Lesson38/README.md#домашнее-задание)  
+  
+</details>
+
