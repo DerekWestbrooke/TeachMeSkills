@@ -31,16 +31,16 @@
 </details>  
 
 <details>
-  <summary>L_4. Сети, маршрутизация, часть 1</summary>  
+  <summary>L_4.Сети, маршрутизация, часть 1</summary>  
   
-  * [Лекция](./Lessons/L_4.Сети,%20маршрутизация,%20часть%201/README.md#урок-4-основы-сетей)  
+  * [Лекция](./Lessons/L_4.%20Сети,%20маршрутизация,%20часть%201/README.md#урок-4-основы-сетей)  
     
-  * [Домашнее_задание](./Lessons/L_4.Сети,%20маршрутизация,%20часть%201/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_4.%20Сети,%20маршрутизация,%20часть%201/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_5</summary>  
+  <summary>L_5.Сети, маршрутизация, часть 2</summary>  
   
   * [Лекция](./Lessons/L_5.%20Сети,%20маршрутизация,%20часть%202/README.md#урок-5-компьютерные-сети)  
     
@@ -49,198 +49,198 @@
 </details>
 
 <details>
-  <summary>Lesson_6</summary>  
+  <summary>L_6. Криптография</summary>  
   
-  * [Лекция](./Lesson6/README.md#урок-6-криптография)  
+  * [Лекция](./Lessons/README.md#урок-6-криптография)  
     
-  * [Домашнее_задание](./Lesson6/README.md#домашняя-работа)  
+  * [Домашнее_задание](./Lessons/README.md#домашняя-работа)  
   
 </details>
 
 <details>
-  <summary>Lesson_7</summary>  
+  <summary>L_7. Типы атак 1, OWASP top 10</summary>  
   
-  * [Лекция](./Lesson7/README.MD#урок-7-типы-атак-i-owasp-top-10)  
+  * [Лекция](./Lessons/README.MD#урок-7-типы-атак-i-owasp-top-10)  
     
-  * [Домашнее_задание](./Lesson7/README.MD#домашняя-работа)  
+  * [Домашнее_задание](./Lessons/README.MD#домашняя-работа)  
   
 </details>
 
 <details>
-  <summary>Lesson_8</summary>  
+  <summary>L_8. Типы атак 2</summary>  
   
-  * [Лекция](./Lesson8/README.MD#урок-8-типы-атак-ii)  
+  * [Лекция](./Lessons/README.MD#урок-8-типы-атак-ii)  
     
-  * [Домашнее_задание](./Lesson8/README.MD#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.MD#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_9</summary>  
+  <summary>L_9. Социальная инженерия, фишинг</summary>  
   
-  * [Лекция](./Lesson9/README.md#урок-9-социальная-инженерия-social-engineering)  
+  * [Лекция](./Lessons/README.md#урок-9-социальная-инженерия-social-engineering)  
     
-  * [Домашнее_задание](./Lesson9/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lessons_10-11</summary>  
+  <summary>L_10-11. Mittre</summary>  
   
-  * [Лекция](./Lessons10-11/README.md)  
+  * [Лекция](./Lessons/README.md)  
     
-  * [Домашнее_задание](./Lessons10-11/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>  
 
 <details>
-  <summary>Lesson_12</summary>  
+  <summary>L_12. Законодательство и стандарты ИБ</summary>  
   
-  * [Лекция](./Lesson12/README.md)  
+  * [Лекция](./Lessons/README.md)  
     
-  * [Домашнее_задание](./Lesson12/README.md#домашняя-работа)  
+  * [Домашнее_задание](./Lessons/README.md#домашняя-работа)  
   
 </details>  
 
 <details>
-  <summary>Lesson_13</summary>  
+  <summary>L_13. Безопасность Windows</summary>  
        
-  * [Домашнее_задание](./Lesson13/README.md#домашняя-работа)  
+  * [Домашнее_задание](./Lessons/README.md#домашняя-работа)  
   
 </details>
 
 <details>
-  <summary>Lesson_14</summary>  
+  <summary>L_14. Безопасность Linux</summary>  
   
-  * [Лекция](./Lesson14/README.md)  
+  * [Лекция](./Lessons/README.md)  
     
-  * [Домашнее_задание](./Lesson14/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_15-16</summary>
+  <summary>L_15-16. Защита инфраструктуры предприятия</summary>
         
-  * [Домашнее_задание](./Lesson15-16/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_17</summary>
+  <summary>L_17. Защита инфраструктуры приложений, часть 1</summary>
   
-  * [Домашнее_задание](./Lesson17/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_18</summary>
-  
-  * [Домашнее_задание](./Lesson18/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_19</summary>
+  <summary>L_18. Защита инфраструктуры приложений, часть 2</summary>
   
-  * [Домашнее_задание](./Lesson19/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_20</summary>
-  
-  * [Домашнее_задание](./Lesson20/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_22</summary>
+  <summary>L_19. Основные виды СЗИ, часть 1</summary>
   
-  * [Домашнее_задание](./Lesson22/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_23-24</summary>
-  
-  * [Домашнее_задание](./Lesson23/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_25</summary>
+  <summary>L_20. Основные виды СЗИ, часть 2</summary>
   
-  * [Домашнее_задание](./Lesson25/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_26</summary>
-  
-  * [Домашнее_задание](./Lesson26/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_27</summary>
+  <summary>L_22. Vulnerability Assessment</summary>
   
-  * [Домашнее_задание](./Lesson27/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_28</summary>
-  
-  * [Домашнее_задание](./Lesson28/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_29</summary>
+  <summary>L_23. Event Management</summary>
   
-  * [Домашнее_задание](./Lesson29/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_30</summary>
-  
-  * [Домашнее_задание](./Lesson30/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_33</summary>
+  <summary>L_24-25. Forensics, Incident response</summary>
   
-  * [Домашнее_задание](./Lesson33/README.md#домашнее-задание)  
-  
-</details>
-
-<details>
-  <summary>Lesson_34</summary>
-  
-  * [Домашнее_задание](./Lesson34/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_35-36</summary>
+  <summary>L_26. Scripting, часть 1</summary>
   
-  * [Домашнее_задание](./Lesson35-36/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_27. Scripting, часть 2</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_28. Coding, часть 1</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_29. Coding, часть 2</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_30. Web Application Security</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_33. Reverse Engineering</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_34. OSINT</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
+  
+</details>
+
+<details>
+  <summary>L_35-36. Pentest</summary>
+  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>  
 
 <details>
-  <summary>Lesson_37</summary>
+  <summary>L_37. CTF</summary>
   
-  * [Домашнее_задание](./Lesson37/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_38</summary>
+  <summary>L_38. Рынок Кибербеза</summary>
   
-  * [Домашнее_задание](./Lesson38/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_38.%20Рынок%20Кибербеза/README.md#домашнее-задание)  
   
 </details>
 
