@@ -6,16 +6,16 @@
 <details>
   <summary>L_1. Введение</summary>  
   
-  * [Лекция](./Lessons/L_1. Введение/README.md#урок-1-введение)  
+  * [Лекция](./Lessons/L_1.-Введение/README.md#урок-1-введение)  
     
-  * [Домашнее_задание](./Lessons/L_1. Введение/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_1.-Введение/README.md#домашнее-задание)  
   
 </details>
 
 <details>
-  <summary>Lesson_2</summary>  
+  <summary>L_2. Виртуализация</summary>  
   
-  * [Лекция](./Lesson2/README.md#урок-2-виртуализация)  
+  * [Лекция](./Lessons/L_2.В)  
     
   * [Домашнее_задание](./Lesson2/README.md#домашнее-задание)  
   
