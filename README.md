@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------------------------------
 <details>
   <summary>L_1. Введение</summary>  
-  
+    
   * [Лекция](./Lessons/L_1.%20Введение/README.md#урок-1-введение)  
     
   * [Домашнее_задание](./Lessons/L_1.%20Введение/README.md#домашнее-задание)  
@@ -215,6 +215,11 @@
   * [Домашнее_задание](./Lessons/L_30.%20Web%20Application%20Security/README.md#домашнее-задание)  
   
 </details>
+
+<details>
+  <summary>L_31-32. DevSecOps</summary>
+  
+</details> 
 
 <details>
   <summary>L_33. Reverse Engineering</summary>
