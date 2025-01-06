@@ -23,7 +23,6 @@
 |Task_11|dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr|
 |Task_12|7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4|
 
- По мере выполнения буду добавлять новые результаты решения заданий.
 
 
 
