@@ -22,11 +22,11 @@
 </details>
 
 <details>
-  <summary>Lesson_3</summary>  
+  <summary>L_3. Kali_Linux</summary>  
   
-  * [Лекция](./Lessons/L_3.Kali_Linux/README.md#урок-3-kali-linux)  
+  * [Лекция](./Lessons/L_3.%20Kali_Linux/README.md#урок-3-kali-linux)  
     
-  * [Домашнее_задание](./Lessons/L_3.Kali_Linux/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_3.%20Kali_Linux/README.md#домашнее-задание)  
   
 </details>  
 
