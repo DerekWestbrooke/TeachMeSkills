@@ -8,14 +8,14 @@
   
   * [Лекция](./Lessons/L_1.%20Введение/README.md#урок-1-введение)  
     
-  * [Домашнее_задание](./Lessons/L_1.-Введение/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_1.%20Введение/README.md#домашнее-задание)  
   
 </details>
 
 <details>
   <summary>L_2. Виртуализация</summary>  
   
-  * [Лекция](./Lessons/L_2.В)  
+  * [Лекция](./Lessons/L_2.%20Виртуализация)  
     
   * [Домашнее_задание](./Lesson2/README.md#домашнее-задание)  
   
@@ -24,9 +24,9 @@
 <details>
   <summary>Lesson_3</summary>  
   
-  * [Лекция](./Lesson3/README.md#урок-3-kali-linux)  
+  * [Лекция](./Lessons/L_3.Kali_Linux/README.md#урок-3-kali-linux)  
     
-  * [Домашнее_задание](./Lesson3/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_3.Kali_Linux/README.md#домашнее-задание)  
   
 </details>  
 
