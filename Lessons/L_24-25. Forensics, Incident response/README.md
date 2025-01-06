@@ -1,4 +1,4 @@
-# Урок 25. Forensics, Incident response  
+# Урок 24-25. Forensics, Incident response  
 
  ## ***Домашняя работа*** ##  
 1) Установка AVML:  
