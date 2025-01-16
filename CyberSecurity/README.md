@@ -267,10 +267,8 @@
 <details>
   <summary>Автоматизация проверки URL</summary>  
     
-  * [Лекция](./CyberSecurity/GraduationProject/L_1.%20Введение/README.md#урок-1-введение)  
-    
-  * [Домашнее_задание](./Lessons/L_1.%20Введение/README.md#домашнее-задание)  
-  
+  * [Выполненное_задания](./CyberSecurity/GraduationProject/Автоматизация_проверки_URL/README.md##%20Автоматизация%20процесса%20проверки%20URL%20через%20VirusTotal)
+      
 </details>
 
 
