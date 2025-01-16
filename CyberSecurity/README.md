@@ -267,7 +267,7 @@
 <details>
   <summary>Автоматизация проверки URL</summary>  
     
-  * [Решение_задания](./CyberSecurity/GraduationProject/Автоматизация_проверки_URL/README.md#%20Автоматизация%20процесса%20проверки%20URL%20через%20VirusTotal)
+  * [Решение_задания](./CyberSecurity/GraduationProject/Автоматизация_проверки_URL/README.md#%Автоматизация%20процесса%20проверки%20URL%20через%20VirusTotal)
       
 </details>
 
