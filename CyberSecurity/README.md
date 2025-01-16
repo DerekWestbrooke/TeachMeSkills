@@ -10,9 +10,9 @@
 <details>
   <summary>L_1. Введение</summary>  
     
-  * [Лекция](./CyberSecurity/Lessons/L_1.%20Введение/README.md#урок-1-введение)  
+  * [Лекция](./Lessons/L_1.%20Введение/README.md#урок-1-введение)  
     
-  * [Домашнее_задание](./CyberSecurity/Lessons/L_1.%20Введение/README.md#домашнее-задание)  
+  * [Домашнее_задание](./Lessons/L_1.%20Введение/README.md#домашнее-задание)  
   
 </details>
 
