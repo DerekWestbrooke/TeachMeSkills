@@ -267,7 +267,7 @@
 <details>
   <summary>Автоматизация проверки URL</summary>  
     
-  * [Решение_задания](./CyberSecurity/GraduationProject/Автоматизация_проверки_URL/README.md)
+  * [Решение_задания](./CyberSecurity/GraduationProject/Автоматизация%20проверки%20URL/README.md)
       
 </details>
 
