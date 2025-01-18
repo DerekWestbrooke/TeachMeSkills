@@ -269,4 +269,9 @@
       
 </details>
 
-
+<details>
+  <summary>Обнаружение уязвимости</summary>  
+    
+  * [Решение_задания](./GraduationProject/Обнаружение_уязвимости/README.md)
+      
+</details>
