@@ -42,7 +42,7 @@
 
 ![manager_res](images/manager_res.png) 
 
-![w10_res](images/w10_res.png)  
+![w10_res](images/win10_res.png)  
 
 ![kali_res](images/kali_res.png) 
 
