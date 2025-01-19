@@ -282,3 +282,10 @@
   * [Решение_задания](./GraduationProject/Настройка_SIEM/README.md)
       
 </details>
+
+<details>
+  <summary>Скрипт</summary>  
+    
+  * [Решение_задания](./GraduationProject/Скрипт/README.md)
+      
+</details>
