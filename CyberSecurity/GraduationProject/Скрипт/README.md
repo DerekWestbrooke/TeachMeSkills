@@ -74,7 +74,7 @@ else
 fi
 
 # Creation operating memory dump
-echo -e "$Y -=4)Creation memory dump=- $RES"
+echo -e "$Y 4) -=Creation memory dump=- $RES"
 sudo avml new_dump.raw
 echo -e "$G Dump created successfully! $RES"
 
