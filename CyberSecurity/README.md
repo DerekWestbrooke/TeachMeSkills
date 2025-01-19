@@ -289,3 +289,10 @@
   * [Решение_задания](./GraduationProject/Скрипт/README.md)
       
 </details>
+
+<details>
+  <summary>Социальная инженерия</summary>  
+    
+  * [Решение_задания](./GraduationProject/Социальная_инженерия/README.md)
+      
+</details>
