@@ -46,6 +46,11 @@
 
 ![kali_res](images/kali_res.png) 
 
+6) Проверяем результаты работы сервера спустя 2 часа:
+  
+![result1](images/result1.png) 
+
+![result2](images/result2.png)  
 
 
 
