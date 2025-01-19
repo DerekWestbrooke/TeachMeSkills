@@ -275,3 +275,10 @@
   * [Решение_задания](./GraduationProject/Обнаружение_уязвимости/README.md)
       
 </details>
+
+<details>
+  <summary>Настройка SIEM </summary>  
+    
+  * [Решение_задания](./GraduationProject/Настройка_SIEM/README.md)
+      
+</details>
